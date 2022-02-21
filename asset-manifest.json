@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yeminhtwe3467/amazon-clone/static/css/main.d703a593.chunk.css",
+    "main.js": "/yeminhtwe3467/amazon-clone/static/js/main.d836bad7.chunk.js",
+    "main.js.map": "/yeminhtwe3467/amazon-clone/static/js/main.d836bad7.chunk.js.map",
+    "runtime-main.js": "/yeminhtwe3467/amazon-clone/static/js/runtime-main.310cfec4.js",
+    "runtime-main.js.map": "/yeminhtwe3467/amazon-clone/static/js/runtime-main.310cfec4.js.map",
+    "static/js/2.54018044.chunk.js": "/yeminhtwe3467/amazon-clone/static/js/2.54018044.chunk.js",
+    "static/js/2.54018044.chunk.js.map": "/yeminhtwe3467/amazon-clone/static/js/2.54018044.chunk.js.map",
+    "static/js/3.10311ac8.chunk.js": "/yeminhtwe3467/amazon-clone/static/js/3.10311ac8.chunk.js",
+    "static/js/3.10311ac8.chunk.js.map": "/yeminhtwe3467/amazon-clone/static/js/3.10311ac8.chunk.js.map",
+    "index.html": "/yeminhtwe3467/amazon-clone/index.html",
+    "static/css/main.d703a593.chunk.css.map": "/yeminhtwe3467/amazon-clone/static/css/main.d703a593.chunk.css.map",
+    "static/js/2.54018044.chunk.js.LICENSE.txt": "/yeminhtwe3467/amazon-clone/static/js/2.54018044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.310cfec4.js",
+    "static/js/2.54018044.chunk.js",
+    "static/css/main.d703a593.chunk.css",
+    "static/js/main.d836bad7.chunk.js"
+  ]
+}
