@@ -1,7 +1,7 @@
 {
+  "homepage": "http://yeminhtwe3467.github.io/amazon-clone",
   "name": "amazon-clone",
   "version": "0.1.0",
-  "homepage": "https://github.com/yeminhtwe3467/amazon-clone",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
